@@ -1,4 +1,4 @@
-# run
+# Author: Mona Zhu
 
 FROM quay.io/jupyter/minimal-notebook:2023-11-19
 
